@@ -1,0 +1,9 @@
+#ifndef LIBADAPTERGBA_COMMANDS_H
+#define LIBADAPTERGBA_COMMANDS_H
+
+static const u8 COMMAND_10_DATA[] =
+{
+    0x4E, 0x49, 0x4E, 0x54, 0x45, 0x4E, 0x44, 0x4F
+};
+
+#endif /* LIBADAPTERGBA_COMMANDS_H */

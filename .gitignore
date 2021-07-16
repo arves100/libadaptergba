@@ -1,0 +1,9 @@
+.idea
+build
+*.map
+*.d
+*.o
+*.elf
+*.sav
+*.gba
+*.a
